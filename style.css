@@ -182,6 +182,7 @@ section.aboutme div.container div.row div.col-sm-8{
 
  .skill-container {
    height: 100vh;
+   margin-top: 48px;
  }
 
 #container2{
@@ -384,6 +385,7 @@ section.projects {
 
   section.aboutme div.container {
     padding-top: 20px;
+    padding-bottom: 50px;
   }
 }
 @media screen and (max-width: 600px){
@@ -426,6 +428,7 @@ section.projects {
   }
 
   .skill-container{
+    margin-top: 0;
     padding-top: 20px;
     height: 100%;
   }
